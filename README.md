@@ -1,4 +1,4 @@
-# Sources Sought – AI Software for Architectural Design & Management
+# AI Software for Architectural Design & Management
 
 The **U.S. General Services Administration (GSA)** is conducting market research on **AI-powered software tools** to support architectural design, planning, and building management across the federal real estate portfolio.
 
@@ -6,7 +6,7 @@ This **Request for Information (RFI)** is issued for planning purposes only and 
 
 ---
 
-## Objective
+## Sources Sought
 
 We’re seeking information from industry about AI solutions that support:
 
@@ -26,7 +26,7 @@ Solutions should address multiple disciplines including architecture, security, 
 
 Please submit a **capabilities package** (25 pages or fewer) by:
 
-**Deadline: July 3, 2025**  
+**Deadline: July 14th, 2025**  
 **Email: [neal.deodhar@gsa.gov](mailto:neal.deodhar@gsa.gov)**  
 **Subject line:** `RFI Submission: AI Software for Architectural Design and Management`
 
